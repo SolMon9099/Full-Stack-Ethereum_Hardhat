@@ -1,6 +1,3 @@
-![ Full Stack Ethereum Development(HardHat)
-]
-
 ## Run locally
 
 1. Clone the repo
