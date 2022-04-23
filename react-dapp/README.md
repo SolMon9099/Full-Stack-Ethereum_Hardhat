@@ -12,5 +12,6 @@ npx hardhat help
 ```
 rinkeby ID
 ```
-0xc33DE68EeE7Ab082801fe3B437A6041f4Ea9CfFE
+Greeter: 0x1054d85Dc3fb56c7EE6c04cdC3f0775b6BAa9CE8
+Token: 0x90dc1f5678420F77e075A1dC00ccC4d23BA0b055
 ```

@@ -18,7 +18,7 @@ async function main() {
   const greeter = await Greeter.deploy("Hello, Hardhat!");
 
   const Token = await hre.ethers.getContractFactory("Token");
-  const token = await Token.deploy();
+  const token = await Token.deploy("PMM Token", "PMM");
 
   await greeter.deployed();
   await token.deployed();
